@@ -1,5 +1,5 @@
 //Program to demonstrate singleton class
-package com.tnsif.dayfour.thirdpackage;
+package Day4.thirdpackage;
 
 public class MyClass {
 	private static MyClass obj=new MyClass();
